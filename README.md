@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adittoguy&show_icons=true&locale=en&layout=compact" alt="adittoguy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adittoguy&show_icons=true&locale=en" alt="adittoguy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adittoguy&" alt="adittoguy" /></p>
